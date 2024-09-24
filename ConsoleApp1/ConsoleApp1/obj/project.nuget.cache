@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MAQQnY9AOXjUyxMNWl1JG04JL/qVBtJSaLQoDAo7ZMuQdh3Yirye+Q0QC5o43MJrfkUFNiU6pTwE6mMusA0sSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tihohod\\Desktop\\Работа\\Avito_car\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tihohod\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Tihohod\\.nuget\\packages\\selenium.webdriver\\4.22.0\\selenium.webdriver.4.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
